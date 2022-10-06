@@ -1,3 +1,5 @@
+![](https://github.com/shaansuraj/Magic-Notes/blob/main/magic-notes.png)
+
 # Magic-Notes
 You can add notes and delete them. The notes are saved in the local storage so no worries if you close the tab even.
 
